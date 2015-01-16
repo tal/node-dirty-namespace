@@ -1,0 +1,27 @@
+{
+  "name": "dirty-namespace",
+  "version": "0.0.0",
+  "description": "Adds a namespace layer to the dirty node datastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tal/node-dirty-namespace.git"
+  },
+  "keywords": [
+    "database",
+    "namespace",
+    "dirty"
+  ],
+  "author": "Tal Atlas <me@tal.by> (http://tal.by/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tal/node-dirty-namespace/issues"
+  },
+  "homepage": "https://github.com/tal/node-dirty-namespace",
+  "dependencies": {
+    "dirty": "^0.9.9"
+  }
+}
